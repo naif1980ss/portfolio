@@ -17,7 +17,7 @@ A QR-based ordering and gamification platform for restaurants, cafés, and bars.
 
 ### 🔹 [Faturah ERP](#)
 A **cloud-based ERP/POS** tailored for SMEs (restaurants, cafés, retailers).  
-- **Tech:** .NET Core backend, Angular frontend, SQL Server/Azure.  
+- **Tech:** .NET Core backend, Reactjs frontend, SQL Server/Azure.  
 - **Highlights:** Invoicing, POS, inventory, HR, reporting modules.  
 - **Role:** Founder — built product strategy, managed dev team, closed early customers.  
 
